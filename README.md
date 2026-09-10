@@ -80,8 +80,8 @@ A decentralized cloud-storage concept combining **IPFS, Pinata, blockchain conce
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: **Add your LinkedIn profile here**
-- 📧 Email: **Add your professional email here**
+- 💼 LinkedIn: ****
+- 📧 Email: **s21154308@gmail.com**
 - 🌐 Portfolio: **Coming soon**
 
 ---
